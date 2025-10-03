@@ -2,8 +2,8 @@
 
 ## 🚀 Me
 
-- 🤔 Former member of @NCUHOME
-- 😁 Current member of NCU Passion
+- 🤔 Former member of [@NCUHOME](https://github.com/NCUHOME)
+- 😁 Current member of [NCU Passion][No links however]
 - 🔭 Working on Embedded and RoboMaster
 - 🌱 Interested in almost all branches of Computer Science
 - 📖 Learning HTML, CSS, JS and Rust now
