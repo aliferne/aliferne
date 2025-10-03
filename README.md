@@ -21,7 +21,7 @@
 
 I'll continuously make contributions to Open Source Projects!
 
-## GitHub Graphs
+## 📈 GitHub Graphs
 
 <div>
   <table align="center">
