@@ -12,8 +12,23 @@
 ## 😎 Languages and Tools
 
 <div>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,html,css,js,rust,anaconda,flask,flutter,bootstrap,git,github,debian,ubuntu,vim,vscode,bash,cmake,docker,linux,md,nginx,mongodb,opencv,arduino,raspberrypi" alt="What I can">
+  <p class="description-lang">
+    Languages:
+  </p>
+  <p class="languages">
+    <img src="https://skillicons.dev/icons?i=py,go,c,cpp,dart,html,css,js,rust,bash" alt="What I can - Lang">
+  </p>
+  <p class="description-frame">
+    Frameworks:
+  </p>
+  <p class="frameworks">
+    <img src="https://skillicons.dev/icons?i=flask,flutter,bootstrap,opencv,arduino" alt="What I can - Framework">
+  </p>
+  <p class="description-tool">
+    Tools:
+  </p>
+  <p class="tools">
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,linux,debian,ubuntu,vim,vscode,cmake,docker,md,nginx,mongodb,opencv,raspberrypi" alt="What I can - Tool">
   </p>
 </div>
 
