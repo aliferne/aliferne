@@ -28,7 +28,7 @@
     Tools:
   </p>
   <p class="tools">
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github,linux,debian,ubuntu,vim,vscode,cmake,docker,md,nginx,mongodb,opencv,raspberrypi" alt="What I can - Tool">
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,linux,debian,ubuntu,vim,vscode,cmake,docker,md,nginx,mongodb,raspberrypi" alt="What I can - Tool">
   </p>
 </div>
 
