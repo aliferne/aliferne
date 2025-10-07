@@ -1,5 +1,7 @@
 ## 👋 Nice to meet you 
 
+Hi! I'm Ferne, a college student from China. Nice to me you! 🤗
+
 ## 🚀 Me
 
 - 🤔 Former member of [@NCUHOME](https://github.com/NCUHOME)
