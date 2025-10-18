@@ -1,8 +1,8 @@
 ## 👋 Nice to meet you 
 
-Hi! I'm Ferne, a college student from China. Nice to me you! 🤗
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+👋;I'm+Ferne++😁" alt="👋  Nice to meet you">
 
-## 🚀 Me
+## 🚀 About Me
 
 - 🤔 Former member of [@NCUHOME](https://github.com/NCUHOME)
 - 😁 Current member of NCU Passion(No GitHub links however)
