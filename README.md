@@ -66,4 +66,77 @@ I'll continuously make contributions to Open Source Projects!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliferne)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 190 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+🌆 Daytime                345 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌃 Evening                499 commits         ███████████░░░░░░░░░░░░░░   45.45 % 
+🌙 Night                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Wednesday                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Friday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Saturday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Dart                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aliferne/aliferne/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/10/2025 07:00:38 UTC
 <!--END_SECTION:waka-->
