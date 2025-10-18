@@ -1,6 +1,9 @@
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=5000&color=8C43EA&vCenter=true&width=1000&height=40&lines=Die+Melodie+von+Null+und+Eins." alt="tags">
+
 ## 👋 Nice to meet you 
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+👋;I'm+Ferne++😁" alt="👋  Nice to meet you">
+Hi! I'm Ferne. A college student from China.
+I've been coding for several years and I'm coding for fun.
 
 ## 🚀 About Me
 
