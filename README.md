@@ -61,3 +61,9 @@ I'll continuously make contributions to Open Source Projects!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliferne&theme=github-compact&hide_border=true&area=true" alt="Ferne's Activity Graph">  
   </p>
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliferne)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
