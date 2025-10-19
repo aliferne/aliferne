@@ -2,8 +2,11 @@
 
 ## 👋 Nice to meet you 
 
-Hi! I'm Ferne. A college student from China.
-I've been coding for several years and I'm coding for fun.
+😁 Hi! I'm Ferne. A college student from China.
+
+💻 I've been coding for several years and I'm coding for fun.
+
+😎 Meanwhile, I'm also a multilingual. I can speak Chinese (of course!), English, German, Russian and Japanese.
 
 ## 🚀 About Me
 
