@@ -24,7 +24,7 @@
     Languages:
   </p>
   <p class="languages">
-    <img src="https://skillicons.dev/icons?i=py,go,c,cpp,dart,html,css,js,rust,bash" alt="What I can - Lang">
+    <img src="https://skillicons.dev/icons?i=py,go,c,cpp,dart,html,css,js,rust,zig,bash" alt="What I can - Lang">
   </p>
   <p class="description-frame">
     Frameworks:
